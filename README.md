@@ -10,3 +10,5 @@
 [【李华的研究室】海洋气象学论文精读1-云的分类与再分类](https://www.bilibili.com/video/BV1cQ4y1k7rq)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/BV1cQ4y1k7rq))
 
 [【李华的研究室】如何实现封面上的内容以及其在气象学中的实用意义](https://www.bilibili.com/video/BV1Nq4y1d7pD)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/BV1Nq4y1d7pD))
+
+[【李华的研究室】有时候算平均数算得不够快，总感觉电脑不太给力](https://www.bilibili.com/video/BV1vq4y157Mi)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/BV1vq4y157Mi))
