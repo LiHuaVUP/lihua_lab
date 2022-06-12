@@ -24,3 +24,6 @@
 [MATLAB生成词云-讲解，代码，以迈克尔杰克逊歌词为例【李华的研究室】](https://www.bilibili.com/video/BV1gm4y1D7r1)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/wordcloud))
 
 [气象学数据分析实例:以ENSO为例鉴别气象学事件【李华的研究室】](https://www.bilibili.com/video/BV1H94y1Z7vR)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/enso_identify))
+
+
+[绘制不均匀的colorbar【李华的研究室】](https://www.bilibili.com/video/BV1HY411j7op)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/colobrarnu))
