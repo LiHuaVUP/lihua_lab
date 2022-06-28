@@ -25,5 +25,7 @@
 
 [气象学数据分析实例:以ENSO为例鉴别气象学事件【李华的研究室】](https://www.bilibili.com/video/BV1H94y1Z7vR)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/enso_identify))
 
-
 [绘制不均匀的colorbar【李华的研究室】](https://www.bilibili.com/video/BV1HY411j7op)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/colobrarnu))
+
+[气象论文代码复现 - 在CMIP6中追踪MJO【李华的研究室】](https://www.bilibili.com/video/BV1TL4y1N7fN)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/mjocmip6))
+
