@@ -29,3 +29,5 @@
 
 [气象论文代码复现 - 在CMIP6中追踪MJO【李华的研究室】](https://www.bilibili.com/video/BV1TL4y1N7fN)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/mjocmip6))
 
+[气象论文代码复现 -评估模式对MJO的模拟效果 【李华的研究室】](https://www.bilibili.com/video/BV1jv4y1u7y4)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/mdlvsobs_mjo))
+
