@@ -31,3 +31,5 @@
 
 [气象论文代码复现 -评估模式对MJO的模拟效果 【李华的研究室】](https://www.bilibili.com/video/BV1jv4y1u7y4)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/mdlvsobs_mjo))
 
+[气象学论文代码复现 - Stommel西向强化理论的数学推导与编程模拟 【李华的研究室】](https://www.bilibili.com/video/BV1XN4y1u7pw)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/Stommel_Plot-main))
+
