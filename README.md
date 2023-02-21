@@ -33,3 +33,13 @@
 
 [气象论文代码复现 - Stommel西向强化理论的数学推导与编程模拟 【李华的研究室】](https://www.bilibili.com/video/BV16L4y1w7ek)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/Stommel_Plot-main))
 
+[手把手复现气象论文代码 - 线性趋势热力图 【李华的研究室】](https://www.bilibili.com/video/BV1ba411D7YW)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/trendheat))
+
+[对气候模拟与预测进行评估 - 数值序列 【李华的研究室】](https://www.bilibili.com/video/BV1w14y1u7MM)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/eml_github))
+
+[MATLAB编程小技巧1-巧用缺失值NaN: 少画一行的pcolor, 带颜色的线图【李华的研究室】](https://www.bilibili.com/video/BV1uR4y1Y7CR)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/mtips1))
+
+[MATLAB编程小技巧2-绘制Gif图【李华的研究室】](https://www.bilibili.com/video/BV18G4y1M74j)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/gifmade))
+
+
+[标准降水因子SPI-原理，计算与编程实现【李华的研究室】](https://www.bilibili.com/video/BV1BM411A746)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/spivideo))
