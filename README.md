@@ -41,5 +41,6 @@
 
 [MATLAB编程小技巧2-绘制Gif图【李华的研究室】](https://www.bilibili.com/video/BV18G4y1M74j)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/gifmade))
 
-
 [标准降水因子SPI-原理，计算与编程实现【李华的研究室】](https://www.bilibili.com/video/BV1BM411A746)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/spivideo))
+
+[经验正交方程EOF-三种编程方法【李华的研究室】](https://www.bilibili.com/video/BV1kD4y137Bw)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/spivideo))
