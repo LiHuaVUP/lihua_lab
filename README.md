@@ -46,3 +46,7 @@
 [经验正交方程EOF-三种编程方法【李华的研究室】](https://www.bilibili.com/video/BV1kD4y137Bw)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/eof_three))
 
 [气象论文讲解与代码复现-MJO的多样性2：代码详解【李华的研究室】](https://www.bilibili.com/video/BV1DV4y1k7Sr)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/mjodiversity))
+
+[对类别数据进行经验正交方程EOF分析-以海洋热浪为例【李华的研究室】](https://www.bilibili.com/video/BV1Fz4y177r4)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/mhweof))
+
+[使用经验正交方程EOF探究气象遥相关【李华的研究室】](https://www.bilibili.com/video/BV1dp4y1E7k6)                           ([代码链接](https://github.com/LiHuaVUP/lihua_lab/tree/main/eofregress))
